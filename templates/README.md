@@ -1,1 +1,1 @@
-HTML Templates for index, index and results
+HTML Templates for index, index and results pages
